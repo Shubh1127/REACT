@@ -5,7 +5,7 @@ import Space from './space.jsx'
 function App() {
   return (
     <div>
-      <Space />
+      <Space/>
     </div>
     
   
