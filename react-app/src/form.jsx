@@ -6,7 +6,7 @@ export default function Form(){
     return (
         <form>
             <input placeholder="write something" />
-            <button onClick={handleFormSubmit}>Submit</button>
+            <button onClick={handleFormSubmit}>SUBMIT</button>
         </form>
     )
 }
