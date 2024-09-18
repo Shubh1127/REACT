@@ -5,12 +5,14 @@ import product from "./product.jsx"
 import ProductTab from "./productTab.jsx"
 import Button from "./button.jsx"
 import Form from "./form.jsx"
+import Contact from "./Contact.jsx"
 
 function App() {
   return (
     <div>
-      <Space/>
-      {/* <Form></Form> */}
+      {/* <Space/> */}
+      <Form/>
+      {/* <Contact/> */}
     </div>
   )
 }
