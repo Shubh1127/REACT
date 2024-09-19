@@ -10,8 +10,8 @@ import Contact from "./Contact.jsx"
 function App() {
   return (
     <div>
-      {/* <Space/> */}
-      <Form/>
+      <Space/>
+      {/* <Form/> */}
       {/* <Contact/> */}
     </div>
   )
