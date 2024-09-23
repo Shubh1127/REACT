@@ -12,7 +12,7 @@ function App() {
     <div>
       <Space/>
       {/* <Form/> */}
-      <Contact/>
+      {/* <Contact/> */}
     </div>
   )
 }
