@@ -11,9 +11,9 @@ import  Joke  from "../../react-forms/react-forms/src/joke.jsx"
 function App() {
   return (
     <div>
-      {/* <Space/> */}
+      <Space/>
       {/* <Joke/> */}
-      <Contact/>
+      {/* <Contact/> */}
     </div>
   )
 }
